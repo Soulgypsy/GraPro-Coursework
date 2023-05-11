@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainGame.cpp
+C:\Users\rober\Documents\Uni Year 3\GraPro\Coursework\Lab1\MainGame.cpp(13,9): warning C4930: 'Shader geoShader(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\rober\Documents\Uni Year 3\GraPro\Coursework\Lab1\MainGame.cpp(14,9): warning C4930: 'Shader rippleShader(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\rober\Documents\Uni Year 3\GraPro\Coursework\Lab1\MainGame.cpp(38,20): warning C4129: 's': unrecognized character escape sequence
+  Lab1.vcxproj -> C:\Users\rober\Documents\Uni Year 3\GraPro\Coursework\Debug\Lab1.exe
